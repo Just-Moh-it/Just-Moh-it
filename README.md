@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Flashy README coming soon 😉]
+
 <!--
 **Just-Moh-it/Just-Moh-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
