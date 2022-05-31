@@ -3,9 +3,10 @@
 <p>
   <em>
     I'm a self-taught 🧑‍💻 <b>Programmer</b> and a high-school student who likes to build awesome apps. <br/><br/>
-    <img src="https://user-images.githubusercontent.com/48997634/167303565-a45e30fe-a8c2-498d-aca5-01928940a588.gif" height="250">
+    <img src="https://user-images.githubusercontent.com/48997634/171174075-91c72b74-22db-496c-9f8d-911b97c6ea16.png" width="100%"/>
   </em>
 </p>
+
 
 ## **About me**
 
