@@ -7,7 +7,6 @@
   </em>
 </p>
 
-
 ## **About me**
 
 - ❤️ I love the intersection of code and design
@@ -25,6 +24,17 @@
 ![Profile Views since 31 May, 2022](https://komarev.com/ghpvc/?username=just-moh-it&style=for-the-badge)
 
 ## **Go-to Languages and Tools**
+
 </br>
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,python,react,nodejs,graphql,figma,mysql,nginx,nextjs,vscode,netlify,prisma,sass,vim,mongodb,flutter,cpp,apollo,ps,pr,ai&perline=12)](https://mohitya.dev/tools)
+
+<!-- Waka stats here -->
+
+## **My weekly coding stats**
+
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
