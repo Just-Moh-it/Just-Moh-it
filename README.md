@@ -41,3 +41,5 @@ Other        3 mins          █░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+<a href="http://cal.com/just-moh-it/quick-chat"><img src="https://user-images.githubusercontent.com/48997634/226274389-b19fe934-aa24-4eb7-9c6a-34fb826a9617.png" height=80 /></a>
