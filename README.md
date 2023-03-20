@@ -3,7 +3,7 @@
 <p>
   <em>
     I'm a self-taught 🧑‍💻 <b>Programmer</b>  who likes to build awesome stuff on the internet. <br/><br/>
-    <img src="https://user-images.githubusercontent.com/48997634/171174075-91c72b74-22db-496c-9f8d-911b97c6ea16.png" width="100%"/>
+    <a href="https://mohitya.dev"><img src="https://user-images.githubusercontent.com/48997634/171174075-91c72b74-22db-496c-9f8d-911b97c6ea16.png" width="100%"/></a>
   </em>
 </p>
 
