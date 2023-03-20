@@ -25,7 +25,7 @@
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,svelte,tailwind,react,python,nodejs,deno,graphql,mysql,nginx,nextjs,vim,vscode,vercel,netlify,planetscale,prisma,sass,mongodb,apollo,figma,ai,pr,ps&perline=14)](https://mohitya.dev/tools)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,rust,html,css,svelte,tailwind,react,python,nodejs,deno,graphql,mysql,nginx,nextjs,vim,vscode,vercel,netlify,planetscale,prisma,sass,mongodb,apollo,figma,ai,pr,ps&perline=14)](https://mohitya.dev/tools)
 
 <!-- Waka stats here -->
 
