@@ -34,7 +34,12 @@
 ## **My weekly coding stats**
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+Rust         1 hr 15 mins    ███████████████████░░░░░░   76.24 %
+TypeScript   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+JSON         6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Other        3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
+
 <!--END_SECTION:waka-->
