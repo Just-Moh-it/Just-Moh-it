@@ -27,18 +27,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,rust,html,css,svelte,tailwind,react,python,nodejs,deno,graphql,mysql,nginx,nextjs,vim,vscode,vercel,netlify,planetscale,prisma,sass,mongodb,apollo,figma,ai,pr,ps&perline=14)](https://mohitya.dev/tools)
 
-<!-- Waka stats here -->
-
-## **My weekly coding stats**
-
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   16 hrs 42 mins  █████████████████████▓░░░   86.12 %
-JSON         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
-Other        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-```
-
-<!--END_SECTION:waka-->
 
 <a href="https://cal.com/just-moh-it/quick-chat"><img src="https://user-images.githubusercontent.com/48997634/226275754-61e8b783-4eea-4e06-8e55-8c09f2826d94.svg" height=80 /></a>
